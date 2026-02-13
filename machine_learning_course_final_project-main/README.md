@@ -43,5 +43,5 @@ After installation, for running the UI, we use streamlit CLI:
 
 - [@erfantbtb](https://github.com/erfantbtb)
 - [@ALIXxDN](https://github.com/ALIXxDN)
-- [@ALIXxDN](https://github.com/mohammad-azim-basiri)
+- [@mohammad-azim-basiri](https://github.com/mohammad-azim-basiri)
 
