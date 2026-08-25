@@ -39,9 +39,4 @@ After installation, for running the UI, we use streamlit CLI:
 ```
 ![User Interface](https://github.com/erfantbtb/machine_learning_course_final_project/blob/main/repo_images/ui.png)
 
-## Authors
-
-- [@erfantbtb](https://github.com/erfantbtb)
-- [@ALIXxDN](https://github.com/ALIXxDN)
-- [@mohammad-azim-basiri](https://github.com/mohammad-azim-basiri)
 
